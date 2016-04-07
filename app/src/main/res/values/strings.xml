@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FoodBook</string>
+    <string name="openDrawer">Open</string>
+    <string name="closeDrawer">Close</string>
+    <string name="rolls">Роллы</string>
+    <string name="salads">Салаты</string>
+    <string name="warms">Теплое</string>
+    <string name="snacks">Закуски</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
